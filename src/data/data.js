@@ -355,7 +355,7 @@ export const projects = [
 export const education = [
   {
     id: 0,
-    img: "",
+    img: "https://th.bing.com/th/id/R.ca9971ddd0506249c6b910f6c3d13ffc?rik=3iYJ7ZwjbPRoFg&riu=http%3a%2f%2fwww.manabadi.co.in%2fqp%2fCenturion%2fCenturion-logo.png&ehk=zbSnR7Q4VKcJpx1xExsB3vEATNiX3zj4MC%2bDpYrtQv0%3d&risl=&pid=ImgRaw&r=0",
     school:
       "Centurion University of Technology and Management,Paralkhemundi, Odisha",
     date: " May2022 - July 2026 ",
