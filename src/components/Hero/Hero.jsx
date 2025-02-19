@@ -20,7 +20,7 @@ const Hero = () => {
           className="relative heroElem w-full pt-32 pb-40 m-auto flex justify-center text-center flex-col items-center z-1"
           style={{ maxWidth: "1200px" }}
         >
-          <p className="text-xl text-white mb-5">Hey, I'm Uday.</p>
+          <p className="text-xl text-white mb-5">Hey, I'm Sravan.</p>
           <h1 className="text-white heroTitle inline-block max-w-2xl lg:max-w-4xl  w-auto relative text-5xl md:text-6xl lg:text-7xl tracking-tighter mb-10 font-bold heroShinyBg">
             I enjoy <span className="heroShiny1 text-fun-pink">coding</span> and{" "}
             <span className="heroShiny2 text-fun-pink">developing</span> for the

@@ -358,9 +358,9 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-13e8c.appspot.com/o/gguLogo.png?alt=media&token=08c7a014-28e4-4312-8ab6-3d151c4fb8b5",
     school:
       "Centurion University of Technology and Management,Paralkhemundi, Odisha",
-    date: " May2021 - July 2025 ",
+    date: " May2022 - July 2026 ",
     grade: "N/A",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Guru Ghasidas Vishwavidyalaya, Bilaspur. ",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Centurion University of Technology and Management, Paralkhemundi, Odisha. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {

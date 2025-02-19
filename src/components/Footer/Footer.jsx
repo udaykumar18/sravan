@@ -37,12 +37,12 @@ const Footer = () => {
           <div className="email flex items-center gap-2">
             <img src={gmail} alt="" className="w-[30px]" />
             <h3 className="text-base">
-              <span>udayakumar9492</span>@gmail.com
+              <span>sravanlabhala1418@gmail.com</span>@gmail.com
             </h3>
           </div>
         </div>
         <p className="copyright mt-14">
-          &copy; {year} Uday Kumar. All rights reserved.
+          &copy; {year} Sravan Kumar. All rights reserved.
         </p>
       </div>
     </div>
