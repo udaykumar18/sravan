@@ -355,7 +355,7 @@ export const projects = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-13e8c.appspot.com/o/gguLogo.png?alt=media&token=08c7a014-28e4-4312-8ab6-3d151c4fb8b5",
+    img: "",
     school:
       "Centurion University of Technology and Management,Paralkhemundi, Odisha",
     date: " May2022 - July 2026 ",
@@ -365,11 +365,11 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-13e8c.appspot.com/o/collegeLogo.jfif?alt=media&token=9da996b9-8511-4871-ba98-dbc0e702508e",
-    school: "Sri Chaitanya Junior College, Vishakapatnam",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-13e8c.appspot.com/o/SchoolLogo.jpg?alt=media&token=31305d07-d77d-4e9d-8b1f-10a135d78150",
+    school: "Ravindra Bharathi Junior College, Vishakapatnam",
     date: "Apr 2019 - Apr 2025",
-    grade: "97.5%",
-    desc: "I completed my class 12 high school education at Sri Chaitanya Junior College, Vishakapatnam, where I studied MPC(XII)",
+    grade: "95.9%",
+    desc: "I completed my class 12 high school education at Ravindra Bharathi School, Vishakapatnam, where I studied MPC(XII)",
     degree: "MPC(XII), Science",
   },
   {
